@@ -1,11 +1,6 @@
-# 👋 Hi, I'm Aditya Kumar
+# 👋  Aditya Kumar
 
-### 🚀 Data Science Enthusiast | B.Tech 3rd Year (6th Sem)
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Machine+Learning+Explorer;Data+Driven+Problem+Solver;Eager+to+Learn+and+Build" />
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Doodle+Shadow&size=36&pause=220&color=FFFFFF&center=true&vCenter=true&width=1300&lines=Hi+I%27m+Aditya+Kumar;Engineering+Student+%4023-27;Passionate+Learner;Data+Science+Enthusiast)](https://git.io/typing-svg)
 ---
 
 <br>
